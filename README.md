@@ -1,2 +1,2 @@
-# Curriculo
-Meu site currículo para apresentar minha experiência
+# Me chamo Lucas dos Santos Gonçalves
+Seja bem vindo ao meu repertório!
